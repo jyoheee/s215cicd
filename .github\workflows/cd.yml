@@ -29,8 +29,8 @@ jobs:
 
       - name: Configure Git identity
         run: |
-          git config --global user.name "phani2498"
-          git config --global user.email "phaneendra2017@gmail.com"
+          git config --global user.name "jyoheee"
+          git config --global user.email "jyothirmayeeg05@gmail.com"
 
       - name: Authenticate and deploy to GitHub Pages
         env:
